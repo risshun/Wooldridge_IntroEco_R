@@ -1,6 +1,7 @@
 # Wooldridge_IntroEco_R
 
 The exercises' solustions of Wooldridge's Introductory Econometrics in R style；
+
 伍德里奇《计量经济学导论》第五版，练习题答案，R语言版本
 
 # Thanks
